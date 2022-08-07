@@ -21,6 +21,7 @@ import AppIntroSlider from 'react-native-app-intro-slider';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 
+// create Tab 
 const Tab = createMaterialTopTabNavigator();
 
 
