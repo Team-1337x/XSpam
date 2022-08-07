@@ -1,5 +1,5 @@
 # SMS-Spam-API
-## Steps to Access
+## Steps to Access the App
 To access our application you can either download the [android application]().
 
 - [Backend API Postman Documentation](https://documenter.getpostman.com/view/18833270/UVeAtoRi)
