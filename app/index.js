@@ -2,7 +2,7 @@
  * @format
  */
 
-// boiler plate 
+// boiler plate  new
 import {AppRegistry} from 'react-native';
 import App from './App';
 
